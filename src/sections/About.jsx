@@ -1,4 +1,4 @@
-import React from 'react'
+
 import Animated from '../components/Animated'
 
 const About = () => {
