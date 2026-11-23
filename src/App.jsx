@@ -4,6 +4,7 @@ import Herosection from './sections/Herosection'
 import About from './sections/About'
 import Stats from './sections/Stats'
 import Dishes from './sections/dishes'
+import Features from './sections/Features'
 const App = () => {
   return (
     <>
@@ -12,6 +13,7 @@ const App = () => {
       <About/>
       <Stats/>
       <Dishes/>
+      <Features/>
     </>
   )
 }
