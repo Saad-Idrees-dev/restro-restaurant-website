@@ -171,13 +171,13 @@ Restaurant Website
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/Saad-Idrees-dev/restro-restaurant-website.git
    ```
 
 2. **Go into the project folder**
 
    ```bash
-   cd your-repo-name
+   cd restro-restaurant-website
    ```
 
 3. **Install dependencies**
@@ -250,7 +250,7 @@ Contributions, issues and feature requests are welcome.
 
 **Saad Idrees**
 
-- GitHub: [@your-username](https://github.com/your-username)
+- GitHub: [@Saad-Idrees-dev](https://github.com/Saad-Idrees-dev)
 
 ---
 
